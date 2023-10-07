@@ -1,2 +1,1 @@
-# art-api
-test api for Art project
+# expressjs-structure
